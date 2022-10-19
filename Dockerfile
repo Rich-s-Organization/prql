@@ -16,6 +16,7 @@
 # Enter 'exit' to close down the Docker machine
 
 # See USING_DOCKER.md for instructions for various tasks
+# test from Rich-s-Organization
 
 FROM rust:1.63.0-slim-buster
 
